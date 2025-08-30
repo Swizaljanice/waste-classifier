@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node/React
+node_modules/
+
+# Data
+backend/data/
+*.zip
+*.h5
+*.pth
+*.onnx
+*.pickle
+
+
+backend/data/
+backend/model/saved_model.pth
+
